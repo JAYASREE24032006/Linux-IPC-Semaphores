@@ -1,19 +1,19 @@
-# EX5 - Linux-IPC-Semaphores
+# EX5 - PROGRAM THAT IMPLEMENTS A PRODUCER-CONSUMER SYSTEM WITH TWO PROCESSES USING SEMAPHORES
 
 ## AIM :
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
 ## DESIGN STEPS :
 
-### Step 1 :
+### STEP 1 :
 
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
-### Step 2 :
+### STEP 2 :
 
 Write the C Program using Linux Process API - Sempahores
 
-### Step 3 :
+### STEP 3 :
 
 Execute the C Program for the desired output. 
 
@@ -117,4 +117,4 @@ $ ipcs
 
 
 ## RESULT :
-The program is executed successfully.
+The C program that implements a producer-consumer system with two processes using Semaphores is executed successfully.
